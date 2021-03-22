@@ -1,4 +1,4 @@
-### Olá DEV 👋
+### Hi DEV 👋
 
 - 🔭 I’m currently working on Pronatec-GO
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS, REACTJS
